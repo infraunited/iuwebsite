@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Holy</title>
-    <link>https://iu.uber.space/categories/</link>
+    <link>http://localhost:80/categories/</link>
     <description>Recent content in Categories on Holy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://iu.uber.space/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:80/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>https://iu.uber.space/categories/syntax/</link>
+      <link>http://localhost:80/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iu.uber.space/categories/syntax/</guid>
+      <guid>http://localhost:80/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://iu.uber.space/categories/themes/</link>
+      <link>http://localhost:80/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iu.uber.space/categories/themes/</guid>
+      <guid>http://localhost:80/categories/themes/</guid>
       <description></description>
     </item>
     
